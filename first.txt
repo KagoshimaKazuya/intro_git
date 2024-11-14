@@ -1,3 +1,7 @@
 git practice
 test
 test2
+git add
+git commit
+
+test
